@@ -170,4 +170,5 @@ python jma_excepciones.py --html sesiones.html --dump-text --debug-links
 * Introduce pausas entre descargas para evitar sobrecargar el servidor.
 * Evita descargar el mismo PDF más de una vez.
 * Filtra falsos positivos (por ejemplo, minutas no relacionadas con construcción).
+* Si una misma excepción se trata más de una vez, esta aparece repetida tantas veces como sea tratada en minutas.
 
