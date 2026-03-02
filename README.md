@@ -11,6 +11,8 @@ El programa:
 5. Identifica dictámenes que autorizan excepciones edilicias.
 6. Exporta los resultados a CSV y JSON.
 
+Se puede ver una versión limpia del resultado, con todas las excepciones otorgadas desde el 2024 hasta febrero de 2026, aquí: https://docs.google.com/spreadsheets/d/1XIhamT88Fr-TQ0PDURTsvC3CFNV1v8aDRpQO6H7Et4U/edit?usp=sharing
+
 ---
 
 ## Requisitos
